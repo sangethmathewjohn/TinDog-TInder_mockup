@@ -16,7 +16,8 @@ h3{
 p{
     color: #8f8f8f;
     padding-left:10%;
-    padding-right:10%;
+    padding-right: 10%;
+    
 }
 body {
     font-family: 'Montserrat', sans-serif;
@@ -27,7 +28,7 @@ body {
     color: #fff;
 }
 .container-fluid {
-    padding: 3% 15% 3%;
+    padding: 3% 15% 1%;
 }
 .navbar{
     padding-bottom: 4.5rem;
@@ -56,7 +57,7 @@ body {
 } 
 .title-image{
     width: 60%;
-    transform: rotate(25deg);
+    transform: rotate(20deg);
     position: absolute;
     right: 30%;
 }
